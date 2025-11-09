@@ -1,4 +1,4 @@
-YBI 2 Months Internship Poject
+YBI 2 Months Internship Poject (From 3 September 2025 to 3 November 2025)
 
 Course Name - Artificial Intelligence and Generative AI
 
