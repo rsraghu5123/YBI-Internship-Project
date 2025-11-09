@@ -2,6 +2,6 @@ YBI 2 Months Internship Poject
 
 Course Name - Artificial Intelligence and Generative AI
 
-Project title - Fish Weight Prediction
+Project title - Cancer Prediction
 
-Platform used - Google Collab (Link -https://colab.research.google.com/drive/1A_TX_CpzxnyBe6Wbn3mhbO7x2wz8JWDY?usp=sharing)
+Platform used - Google Collab (Link -https://colab.research.google.com/drive/1w64PWCqlsvVofVsv8DUL4ypCYUBL9p_k?usp=sharing)
